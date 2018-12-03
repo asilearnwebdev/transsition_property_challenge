@@ -3,7 +3,7 @@
     height: 50px;
     background-color:#e84610 ;
     transition-property:width,background-color;
-    transition-duration: 1s;
+    transition-duration: 5s;
     transition-timing-function: ease-in-out;
 }
 .box:hover {
